@@ -3,7 +3,6 @@
 Mobile Engineer at Progressly
 * Email: [yuxi.chen@berkeley.edu]
 * LinkedIn: [https://www.linkedin.com/in/jack-chen-473465a5/](https://www.linkedin.com/in/jack-chen-473465a5/)
-=====
 
 ## Summary
 
@@ -21,7 +20,7 @@ Mobile Engineer at Progressly
 ## Experiences
   
 * #### Mobile Engineer
-* ##### Progressly : from 2017-06 to Now
+	Progressly : from 2017-06 to Now
 	* (iOS) Developed a picture capturing / annotation feature that helped secure a deal with a potential client
 	* (RN) Key contributor in getting the RN app to reach parity with the iOS app
 	* (RN) Used Redux alongside React to help manage offline data persistence
@@ -32,7 +31,7 @@ Mobile Engineer at Progressly
 	* (RN) Maintained comprehensive Jest unit tests
 
 * #### UI/UX Designer + iOS Engineer
-* ##### LookFwd : from 2016-11 to 2017-06  
+	LookFwd : from 2016-11 to 2017-06  
 	* Integrated a Yelp suggestions feature into the application 
 	* Worked directly with the CEO to create a seamless UI using Sketch
 	* Conducted A/B tests to help iron out the flaws of the existing design
